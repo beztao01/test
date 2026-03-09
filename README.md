@@ -1,2 +1,2 @@
 # test
-Prueba para git portable
+Prueba para trabajar VSC y Git 
